@@ -1,8 +1,6 @@
 # Project Research Code - GMCV
 
-Authors: Hana Kim, HyunSeo Lee (Johns Hopkins University)
-
-## 1. Contents
+## Contents
 
 ├── README.md                       this file \
 ├── checkpoints/    \
